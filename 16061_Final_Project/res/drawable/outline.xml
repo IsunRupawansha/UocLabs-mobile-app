@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/outline.xml -->
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" />
+            <stroke android:width="3dp" android:color="@color/black" />
+            <corners android:radius="22dp" />
+        </shape>
+    </item>
+</selector>

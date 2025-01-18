@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UOC Labs</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+
+    <string-array name="dropdown_items">
+        <item>TO</item>
+        <item>LA</item>
+        <item>MA</item>
+        <item>RA</item>
+        <item>SL</item>
+        <item>PROF.</item>
+        <item>HOD</item>
+        <item>OTHER</item>
+    </string-array>
+</resources>
